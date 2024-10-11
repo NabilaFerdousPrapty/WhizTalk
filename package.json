@@ -1,0 +1,17 @@
+{
+  "name": "whiztalk",
+  "version": "1.0.0",
+  "description": "A mern stack chat app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon backend/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nabila Ferdous",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
